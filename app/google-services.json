@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "653684739649",
+    "firebase_url": "https://memowebapp-3945c.firebaseio.com",
+    "project_id": "memowebapp-3945c",
+    "storage_bucket": "memowebapp-3945c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653684739649:android:7890f3bf5466649b",
+        "android_client_info": {
+          "package_name": "com.navy.firenote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653684739649-ie41praa1fi2gmri18a4gqqahtg8s262.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBev-BKAK5QUB44SGARAIkoJxY5ytg9QRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
